@@ -1,13 +1,20 @@
 /*  your css code here. If applicable */
-body{
+*{
 	background-color:lightgray;
+}
+
+.container{
+	display:flex;
+	justify-content:center;
+	margin-top:30px;
 }
 .circle {
   height: 25px;
   width: 25px;
-  background-color: #bbb;
+  background-color: white;
   border-radius: 50%;
   display: inline-block;
 	text-align:center;
-	
+	padding-top:2px;
+	margin:20px;
 }
