@@ -1,1 +1,13 @@
 /*  your css code here. If applicable */
+body{
+	background-color:lightgray;
+}
+.circle {
+  height: 25px;
+  width: 25px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+	text-align:center;
+	
+}
