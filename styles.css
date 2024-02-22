@@ -18,3 +18,14 @@
 	padding-top:2px;
 	margin:20px;
 }
+.btn{
+	display:flex;
+	justify-content:center;
+}
+button{
+	background-color:#3498db;
+	color:white;
+	border:2px white solid;
+	width:80px
+	
+}
